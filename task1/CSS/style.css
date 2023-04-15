@@ -55,16 +55,16 @@ hr {
 
 .section1{
    max-height: 100vh; 
-   color: #711e15;
+   color: #13005A;
 }
 
 .section1 h1{
-    color: #37110d;
+    color: #13005A;
     font-size: 2rem;
 }
 
 .logo{
-    font-size: 1.3rem;
+    font-size: 2rem;
 }
 
 .dumbellimg{
@@ -96,6 +96,7 @@ hr {
     border: 2px solid rgb(120, 54, 16);
     border-radius: 8px;
     text-align: center;
+    background-color: #F9FFA4;
 }
 
 .box h2{
@@ -127,6 +128,7 @@ hr {
     margin-bottom: 140px;
     margin-top: 20px;
     border-collapse: collapse;
+    background-color: #B9EDDD;
 }
 
 .section3 table th{ 
@@ -151,6 +153,7 @@ hr {
 footer{
     padding: 23px;
     text-align: center;
+    font-weight: bold;
 }
 .buttons{
     display: flex;
@@ -163,4 +166,18 @@ footer{
     font-size: 1.2rem;
     font-weight: bolder;
     margin: 12px 0;
+}
+
+.btn1 {
+    padding:7px 12px;
+    border: 2px solid white;
+    border-radius: 6px;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(227 74 56);
+}
+
+#demo {
+    color: #FDFF00;
+    /* color: #FFD93D; */
 }
